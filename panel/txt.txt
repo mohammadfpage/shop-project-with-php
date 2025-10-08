@@ -1,0 +1,9 @@
+<section class="main" :class="open || 'active'">
+        <div class="container">
+          <div class="card card-primary bg-light shadow p-4 mt-5">
+            <h1 class="text-gray h4 fw-bold">
+              <i class="bi bi-plus-circle"></i>
+              
+          </div>
+        </div>
+      </section>
